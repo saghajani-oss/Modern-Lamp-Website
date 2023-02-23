@@ -35,7 +35,7 @@ nav .menu-img {
     height: 100vh;
     z-index: 1;
     display: none;
-    transition: all 0.5s;
+    transition: display 0.5s;
 }
 
 .menu ul {
